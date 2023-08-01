@@ -1,0 +1,1 @@
+{"name":"Local: codeforces_binary_search","url":"c:\\Users\\Uday\\OneDrive\\Desktop\\CP++\\codeforces_binary_search.cpp","tests":[{"id":1680430209454,"input":"5 5\n3 3 5 8 9\n2 4 8 1 10","output":"1\n3\n4\n1\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Uday\\OneDrive\\Desktop\\CP++\\codeforces_binary_search.cpp","group":"local","local":true}
